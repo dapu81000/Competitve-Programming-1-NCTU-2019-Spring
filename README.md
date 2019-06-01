@@ -31,6 +31,7 @@
 +   [2019 Assignment 20 (Week 13) - Shimarin-Outline and Dekaidango is Extremely Cute](903.cpp)
 ##  Week14
 +   [2019 Assignment 21 (Week 14) - Game KURIA!](912.cpp)
+    +   edit distance
 +   [2019 Assignment 22 (Week 14) - Kinose Fruit Store](913.cpp)
 ##  Week15
 +   [2019 Assignment 23 (Week 15) - Let's Take a Break](914.cpp)
